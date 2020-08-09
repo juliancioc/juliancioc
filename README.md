@@ -1,16 +1,39 @@
-### Hi there 👋
+Olá, meu nome é Juliâncio.
 
-<!--
-**juliancioc/juliancioc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente trabalho como Desenvolvedor Frontend Pleno no Grupo FCamara e essas são as principais tecnologias da minha stack:
 
-Here are some ideas to get you started:
+➡️ JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ TypeScript
+
+➡️ ReactJS
+
+➡️ React Native
+
+➡️ HTML5
+
+➡️ CSS3
+
+➡️ styled-components
+
+➡️ GraphQL
+
+➡️ Node.js
+
+➡️ Bootstrap
+
+<hr>
+
+Tenho um grande interesse pelo Framework React então todos os dias estudo e pratico, para adquirir mais conhecimento nesta tecnologia. 😎️
+
+Conheça os meus últimos projetos pessoais:
+
+Imposto de Importação é uma aplicação com o objetivo de ajudar pessoas a calcular o custo de uma importação
+
+https://www.impostodeimportacao.com.br/
+
+<hr>
+
+Pokemon Cards é uma aplicação que eu desenvolvi apenas para entender a estrutura do Framework Angular
+
+https://dazzling-borg-bbbc46.netlify.app/cards
