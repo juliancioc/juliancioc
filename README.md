@@ -2,25 +2,7 @@ Olá, meu nome é Juliâncio.
 
 Atualmente trabalho como Desenvolvedor Frontend Pleno no Grupo FCamara e essas são as principais tecnologias da minha stack:
 
-➡️ JavaScript
-
-➡️ TypeScript
-
-➡️ ReactJS
-
-➡️ React Native
-
-➡️ HTML5
-
-➡️ CSS3
-
-➡️ styled-components
-
-➡️ GraphQL
-
-➡️ Node.js
-
-➡️ Bootstrap
+JavaScript, TypeScript, ReactJS, React Native, HTML5, CSS3, styled-components, GraphQL, Node.js e Bootstrap
 
 <hr>
 
