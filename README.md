@@ -21,5 +21,6 @@ Pokemon Cards é uma aplicação que eu desenvolvi apenas para entender a estrut
 https://dazzling-borg-bbbc46.netlify.app/cards
 
 <hr>
+
 Clone da home do Twitter:
 https://juliancioc.github.io/clone-profile-twitter/
